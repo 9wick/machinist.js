@@ -1,7 +1,7 @@
 const Machinist = require('../../index');
 const Obniz = require('obniz');
 
-const machinist = new Machinist('Obniz', '449eb210cc7a4d4c');
+const machinist = new Machinist('Obniz', 'API_KEY');
 
 const obniz = new Obniz('OBNIZ_ID_HERE');
 
